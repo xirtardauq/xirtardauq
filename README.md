@@ -1,8 +1,23 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm Takumi Yamada 👋</h1>
+
+<h3 align="center">You can reach me at</h2>
+<p align="center">
+  <a href="https://linkedin.com/in/xirtardauq" target="_blank">
+  <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
+ </a>
+ <a href="https://twitter.com/xirtardauq" target="_blank">
+  <img src="https://img.icons8.com/fluent/48/000000/twitter.png" />
+ </a>
+</p>
+
+</br>
+
+<p align="center">
+ <a href="#" alt="Saeed Rahimi's github stats"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=xirtardauq&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Saeed Rahimi's Github Stats"></a>
+  
+</p>
 
 <!--
-**xirtardauq/xirtardauq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
